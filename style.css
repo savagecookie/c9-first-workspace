@@ -1,7 +1,9 @@
 /* Use the comments below to complete activities 1 through 6. */
 
 /* 1. Use the space below to change the background color of the page using the body tag */
-
+body {
+	background-color:tan;
+}
 
 
 
@@ -9,14 +11,15 @@
 /* 2a. Change the size of your image to 200px height and width*/
 /* 2b. Give image1 a border */
 #image1 {
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
 }
 
 /* 3. Size image2 to make it twice as large as image1 */
 #image2 {
-	width: 50%;
-	height: 50%;
+	width: 150%;
+	height: 150%;
 }
 
 /* 4. Change the buttons with class buttonStyle to be blue with white text */
@@ -32,11 +35,9 @@
 }
 
 /* 5. Use the space below to make all h2 tags your favorite color. */
-
-
-
-
-
+ #four {
+ color:purple;
+}
 
 #mainContent {
 	font-family: Arial, Helvetica, sans-serif;
